@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptFloatingTile" id="Articulations" x="2" y="153" width="488"
+             height="124" bgColour="16777215" itemColour="3355443" itemColour2="1118481">
+    <Component type="ScriptButton" id="BtnPizzi" x="10" y="70" parentComponent="Articulations"
+               text="Pizzicato" useUndoManager="1" processorId="Container0MidiMute"
+               parameterId="Bypass"/>
+    <Component type="ScriptButton" id="BtnLegato" x="160" y="70" parentComponent="Articulations"
+               text="Legato" processorId="Container1MidiMute" useUndoManager="1"
+               parameterId="Bypass"/>
+    <Component type="ScriptButton" id="BtnSusAcc" x="310" y="70" parentComponent="Articulations"
+               text="Acc. Sustains" tooltip="Long notes played with bowing emphasis that can die out"
+               processorId="Container2MidiMute" useUndoManager="1" parameterId="Bypass"/>
+  </Component>
+  <Component type="ScriptButton" id="PanicResetNoteButton" x="10" y="100"
+             processorId="philharmonia viola testing legato" parameterId="Enabled"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile1" x="0" y="330"
+             width="800" height="67" ContentType="Keyboard" bgColour="4284769380"
+             itemColour="452984831" itemColour2="4294967295" textColour="0"
+             Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 9,&#10;  &quot;HiKey&quot;: 127,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: true,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"/>
+</ContentProperties>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="sustains XF" RRGroupAmount="5.0" MicPositions=";" CrossfadeGamma="1.0">
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="54785" LoopXFade="0" LoopStart="36941"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="38441" LoopXFade="0" LoopStart="25920"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="75215" LoopXFade="0" LoopStart="50719"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44978" LoopXFade="0" LoopStart="30330"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="55602" LoopXFade="0" LoopStart="37493"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="39258" LoopXFade="0" LoopStart="26471"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="103" LoKey="103" HiKey="103" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="103" LoKey="103" HiKey="103" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="29451" LoopXFade="0" LoopStart="19858"/>
+  <sample Root="103" LoKey="103" HiKey="103" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="29451" LoopXFade="0" LoopStart="19858"/>
+  <sample Root="103" LoKey="103" HiKey="104" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26999" LoopXFade="0" LoopStart="18205"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44162" LoopXFade="0" LoopStart="29778"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="45796" LoopXFade="0" LoopStart="30880"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49881" LoopXFade="0" LoopStart="33635"/>
+  <sample Root="82" LoKey="82" HiKey="83" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="30268" LoopXFade="0" LoopStart="20409"/>
+  <sample Root="94" LoKey="94" HiKey="94" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="94" LoKey="94" HiKey="96" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#5_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="94" LoKey="94" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="51516" LoopXFade="0" LoopStart="34738"/>
+  <sample Root="94" LoKey="94" HiKey="94" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="106" LoKey="106" HiKey="106" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26182" LoopXFade="0" LoopStart="17654"/>
+  <sample Root="106" LoKey="106" HiKey="106" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="106" LoKey="106" HiKey="106" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49064" LoopXFade="0" LoopStart="33084"/>
+  <sample Root="106" LoKey="106" HiKey="106" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="45796" LoopXFade="0" LoopStart="30880"/>
+  <sample Root="69" LoKey="69" HiKey="72" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44978" LoopXFade="0" LoopStart="30330"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="53150" LoopXFade="0" LoopStart="35840"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="30268" LoopXFade="0" LoopStart="20409"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="62957" LoopXFade="0" LoopStart="42452"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="27817" LoopXFade="0" LoopStart="18756"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="42527" LoopXFade="0" LoopStart="28676"/>
+  <sample Root="93" LoKey="93" HiKey="93" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="93" LoKey="93" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="56419" LoopXFade="0" LoopStart="38043"/>
+  <sample Root="93" LoKey="93" HiKey="93" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44978" LoopXFade="0" LoopStart="30330"/>
+  <sample Root="105" LoKey="105" HiKey="105" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="105" LoKey="105" HiKey="105" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26999" LoopXFade="0" LoopStart="18205"/>
+  <sample Root="105" LoKey="105" HiKey="105" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="105" LoKey="105" HiKey="105" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="43343" LoopXFade="0" LoopStart="29227"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="54785" LoopXFade="0" LoopStart="36941"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="36806" LoopXFade="0" LoopStart="24818"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="28634" LoopXFade="0" LoopStart="19307"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="34355" LoopXFade="0" LoopStart="23165"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="43343" LoopXFade="0" LoopStart="29227"/>
+  <sample Root="95" LoKey="95" HiKey="96" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="107" LoKey="107" HiKey="107" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="107" LoKey="107" HiKey="107" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="107" LoKey="107" HiKey="107" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="38441" LoopXFade="0" LoopStart="25920"/>
+  <sample Root="107" LoKey="107" HiKey="107" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="38441" LoopXFade="0" LoopStart="25920"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="42527" LoopXFade="0" LoopStart="28676"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="51516" LoopXFade="0" LoopStart="34738"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="73" LoKey="73" HiKey="78" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="34355" LoopXFade="0" LoopStart="23165"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="57236" LoopXFade="0" LoopStart="38595"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="47430" LoopXFade="0" LoopStart="31982"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="52333" LoopXFade="0" LoopStart="35288"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="30268" LoopXFade="0" LoopStart="20409"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="52333" LoopXFade="0" LoopStart="35288"/>
+  <sample Root="97" LoKey="97" HiKey="97" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="97" LoKey="97" HiKey="97" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="97" LoKey="97" HiKey="101" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#6_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="97" LoKey="97" HiKey="97" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26182" LoopXFade="0" LoopStart="17654"/>
+  <sample Root="97" LoKey="97" HiKey="97" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="109" LoKey="109" HiKey="109" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#7_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopStart="21793" LoopEnabled="1" LoopEnd="32786"
+          LoopXFade="0"/>
+  <sample Root="109" LoKey="109" HiKey="109" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#7_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="56419" LoopXFade="0" LoopStart="38043"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="62140" LoopXFade="0" LoopStart="41902"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="47430" LoopXFade="0" LoopStart="31982"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="47430" LoopXFade="0" LoopStart="31982"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="63774" LoopXFade="0" LoopStart="43003"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="62957" LoopXFade="0" LoopStart="42452"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="39258" LoopXFade="0" LoopStart="26471"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44162" LoopXFade="0" LoopStart="29778"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="96" LoKey="96" HiKey="96" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="96" LoKey="96" HiKey="96" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="96" LoKey="96" HiKey="96" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="57236" LoopXFade="0" LoopStart="38595"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C7_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="19644" LoopXFade="0" LoopStart="13245"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C7_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="28634" LoopXFade="0" LoopStart="19307"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C7_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="27817" LoopXFade="0" LoopStart="18756"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C7_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="30992" LoopXFade="0" LoopStart="23642"
+          SampleStartMod="10875" SampleStart="0"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="42527" LoopXFade="0" LoopStart="28676"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="50698" LoopXFade="0" LoopStart="34186"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="55602" LoopXFade="0" LoopStart="37493"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="56419" LoopXFade="0" LoopStart="38043"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="42527" LoopXFade="0" LoopStart="28676"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49881" LoopXFade="0" LoopStart="33635"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49064" LoopXFade="0" LoopStart="33084"/>
+  <sample Root="99" LoKey="99" HiKey="99" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="99" LoKey="99" HiKey="99" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="99" LoKey="99" HiKey="100" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="62" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D3_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="63774" LoopXFade="0" LoopStart="43003"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="56419" LoopXFade="0" LoopStart="38043"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="41709" LoopXFade="0" LoopStart="28125"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="56419" LoopXFade="0" LoopStart="38043"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="53967" LoopXFade="0" LoopStart="36391"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49064" LoopXFade="0" LoopStart="33084"/>
+  <sample Root="86" LoKey="86" HiKey="88" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="58054" LoopXFade="0" LoopStart="39146"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="65408" LoopXFade="0" LoopStart="44105"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49064" LoopXFade="0" LoopStart="33084"/>
+  <sample Root="98" LoKey="98" HiKey="99" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="61323" LoopXFade="0" LoopStart="41351"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37790" LoopXFade="0" LoopStart="23589"
+          SampleStartMod="13697" Normalized="0" NormalizedPeak="10.70150184631348"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49881" LoopXFade="0" LoopStart="33635"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="27817" LoopXFade="0" LoopStart="18756"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="30268" LoopXFade="0" LoopStart="20409"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="36806" LoopXFade="0" LoopStart="24818"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35172" LoopXFade="0" LoopStart="23716"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="38441" LoopXFade="0" LoopStart="25920"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="88" LoKey="88" HiKey="93" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="100" LoKey="100" HiKey="100" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26182" LoopXFade="0" LoopStart="17654"/>
+  <sample Root="100" LoKey="100" HiKey="100" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="100" LoKey="100" HiKey="100" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="29451" LoopXFade="0" LoopStart="19858"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44978" LoopXFade="0" LoopStart="30330"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="53967" LoopXFade="0" LoopStart="36391"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="43343" LoopXFade="0" LoopStart="29227"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="67860" LoopXFade="0" LoopStart="45758"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40893" LoopXFade="0" LoopStart="27575"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="46612" LoopXFade="0" LoopStart="31431"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="40075" LoopXFade="0" LoopStart="27022"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="54785" LoopXFade="0" LoopStart="36941"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="34355" LoopXFade="0" LoopStart="23165"/>
+  <sample Root="102" LoKey="102" HiKey="102" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="32721" LoopXFade="0" LoopStart="22063"/>
+  <sample Root="102" LoKey="102" HiKey="108" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#6_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="102" LoKey="102" HiKey="102" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="53150" LoopXFade="0" LoopStart="35840"/>
+  <sample Root="102" LoKey="102" HiKey="102" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44978" LoopXFade="0" LoopStart="30330"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="43343" LoopXFade="0" LoopStart="29227"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="28634" LoopXFade="0" LoopStart="19307"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="67860" LoopXFade="0" LoopStart="45758"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="44162" LoopXFade="0" LoopStart="29778"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="43343" LoopXFade="0" LoopStart="29227"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="49881" LoopXFade="0" LoopStart="33635"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="34355" LoopXFade="0" LoopStart="23165"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="45796" LoopXFade="0" LoopStart="30880"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="47430" LoopXFade="0" LoopStart="31982"/>
+  <sample Root="101" LoKey="101" HiKey="102" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="48247" LoopXFade="0" LoopStart="32532"/>
+  <sample Root="101" LoKey="101" HiKey="101" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="33537" LoopXFade="0" LoopStart="22614"/>
+  <sample Root="101" LoKey="101" HiKey="101" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="25365" LoopXFade="0" LoopStart="17103"/>
+  <sample Root="101" LoKey="101" HiKey="101" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F6_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="58871" LoopXFade="0" LoopStart="39696"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="60505" LoopXFade="0" LoopStart="40799"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="68" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="52333" LoopXFade="0" LoopStart="35288"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="26182" LoopXFade="0" LoopStart="17654"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="50698" LoopXFade="0" LoopStart="34186"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#4_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="80" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#4_1_mezzo-piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#4_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="37624" LoopXFade="0" LoopStart="25369"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#4_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#5_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="60505" LoopXFade="0" LoopStart="40799"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#5_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31086" LoopXFade="0" LoopStart="20961"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#5_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="35989" LoopXFade="0" LoopStart="24267"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#5_1_piano_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="25365" LoopXFade="0" LoopStart="17103"/>
+  <sample Root="104" LoKey="104" HiKey="104" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#6_1_forte_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="16375" LoopXFade="0" LoopStart="11042"/>
+  <sample Root="104" LoKey="104" HiKey="104" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#6_1_fortissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="31903" LoopXFade="0" LoopStart="21512"/>
+  <sample Root="104" LoKey="104" HiKey="104" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#6_1_pianissimo_arco-normal-converted.wav"
+          Duplicate="1" LoopEnabled="1" LoopEnd="60505" LoopXFade="0" LoopStart="40799"/>
+</samplemap>

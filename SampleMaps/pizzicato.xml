@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="pizzicato" RRGroupAmount="3.0" MicPositions=";" CrossfadeGamma="1.0">
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="1" HiVel="81" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.94699668884277"
+          UpperVelocityXFade="16" SampleStart="0" LoopEnd="3322" SampleEnd="26543"
+          SampleStartMod="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.741082191467285"
+          LowerVelocityXFade="24" SampleStart="2058" LoopXFade="0" LoopStart="2905"/>
+  <sample Root="90" LoKey="90" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.572066307067871"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.34800720214844"
+          UpperVelocityXFade="16"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.939432621002197"
+          LowerVelocityXFade="24"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.67620849609375"
+          UpperVelocityXFade="26"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.872401237487793"
+          LowerVelocityXFade="24" LoopXFade="0" LoopStart="3094" SampleStart="1170"/>
+  <sample Root="88" LoKey="88" HiKey="89" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="30.14535331726074"
+          UpperVelocityXFade="26" SampleStart="2881" LoopXFade="0" LoopStart="4612"/>
+  <sample Root="88" LoKey="88" HiKey="89" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.679399967193604"
+          LowerVelocityXFade="24"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.92847347259521"
+          UpperVelocityXFade="26" LoopXFade="0" LoopStart="2421" SampleStart="0"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.212854862213135"
+          LowerVelocityXFade="24" SampleStart="0" LoopXFade="0" LoopStart="3344"/>
+  <sample Root="75" LoKey="75" HiKey="76" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5056324005127"
+          UpperVelocityXFade="26"/>
+  <sample Root="75" LoKey="75" HiKey="76" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.318550109863281"
+          LowerVelocityXFade="24" Pitch="30"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="39.52714157104492"
+          UpperVelocityXFade="26" SampleStart="1613" LoopXFade="0" LoopStart="3344"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="52" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.68120002746582"
+          LowerVelocityXFade="25"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.1513729095459"
+          UpperVelocityXFade="26"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.9616527557373"
+          LowerVelocityXFade="24"/>
+  <sample Root="73" LoKey="73" HiKey="74" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.46261310577393"
+          UpperVelocityXFade="26"/>
+  <sample Root="73" LoKey="73" HiKey="74" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.129677772521973"
+          LowerVelocityXFade="24" SampleStart="625" LoopXFade="0" LoopStart="625"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.27529335021973"
+          UpperVelocityXFade="26" LoopXFade="0" LoopStart="656" SampleStart="656"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="52" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.131736755371094"
+          LowerVelocityXFade="25"/>
+  <sample Root="96" LoKey="96" HiKey="96" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.01445388793945"
+          UpperVelocityXFade="26"/>
+  <sample Root="96" LoKey="96" HiKey="96" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.572222709655762"
+          LowerVelocityXFade="24"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.12598419189453"
+          UpperVelocityXFade="16"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.578598499298096"
+          LowerVelocityXFade="24"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.03079605102539"
+          UpperVelocityXFade="26" SampleStart="0" LoopXFade="0" LoopStart="2629"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="53" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.010397434234619"
+          LowerVelocityXFade="24"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.204306602478027"
+          UpperVelocityXFade="16"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.861000061035156"
+          LowerVelocityXFade="24"/>
+  <sample Root="82" LoKey="82" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.336807727813721"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.922630786895752"
+          UpperVelocityXFade="16"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.033512353897095"
+          LowerVelocityXFade="24"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.83949089050293"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.381048202514648"
+          UpperVelocityXFade="16"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.072582721710205"
+          LowerVelocityXFade="24"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="80" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.56923675537109"
+          UpperVelocityXFade="16" SampleStart="0" LoopXFade="0" LoopStart="12408"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.406077861785889"
+          LowerVelocityXFade="24"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="82" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.08918380737305"
+          UpperVelocityXFade="26"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="49" HiVel="127" RRGroup="1"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.52280044555664"
+          LowerVelocityXFade="24"/>
+  <sample Root="61" LoKey="60" HiKey="61" LoVel="53" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.010397434234619"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="62" LoKey="62" HiKey="63" LoVel="52" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.131736755371094"
+          LowerVelocityXFade="25" Pitch="100"/>
+  <sample Root="64" LoKey="64" HiKey="66" LoVel="52" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.68120002746582"
+          LowerVelocityXFade="25" Pitch="100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.939432621002197"
+          LowerVelocityXFade="24" Pitch="100" SampleStart="1389" LoopXFade="0"
+          LoopStart="2306"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.741082191467285"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.406077861785889"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.072582721710205"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.033512353897095"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.861000061035156"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.578598499298096"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.129677772521973"
+          LowerVelocityXFade="24" Pitch="100" LoopXFade="0" LoopStart="2145"
+          SampleStart="2145"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.318550109863281"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.872401237487793"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="80" LoKey="80" HiKey="81" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.52280044555664"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.83949089050293"
+          Pitch="100"/>
+  <sample Root="83" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.336807727813721"
+          Pitch="100"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.9616527557373"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.212854862213135"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="49" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.679399967193604"
+          LowerVelocityXFade="24" Pitch="100"/>
+  <sample Root="91" LoKey="91" HiKey="96" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.572066307067871"
+          Pitch="100"/>
+  <sample Root="61" LoKey="60" HiKey="61" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.03079605102539"
+          UpperVelocityXFade="26" Pitch="100" LoopXFade="0" LoopStart="1862"
+          SampleStart="0"/>
+  <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.27529335021973"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="64" LoKey="64" HiKey="66" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="39.52714157104492"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.46261310577393"
+          UpperVelocityXFade="26" Pitch="100" LoopStart="13258" SampleStart="12105"
+          LoopXFade="0"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5056324005127"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.67620849609375"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="80" LoKey="80" HiKey="81" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.08918380737305"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.1513729095459"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.92847347259521"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="82" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="30.14535331726074"
+          UpperVelocityXFade="26" Pitch="100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.34800720214844"
+          UpperVelocityXFade="16" Pitch="100" LoopXFade="0" LoopStart="650"
+          SampleStart="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.92144775390625"
+          UpperVelocityXFade="16" Pitch="100" SampleStart="4670" LoopXFade="0"
+          LoopStart="14830" LoopEnd="32056" SampleEnd="32056" Volume="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.56923675537109"
+          UpperVelocityXFade="16" Pitch="100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.381048202514648"
+          UpperVelocityXFade="16" Pitch="100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.922630786895752"
+          UpperVelocityXFade="16" Pitch="100"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.204306602478027"
+          UpperVelocityXFade="16" Pitch="100"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="80" RRGroup="2"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.12598419189453"
+          UpperVelocityXFade="16" Pitch="100" LoopXFade="0" LoopStart="44013"
+          SampleStart="0"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="52" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.131736755371094"
+          LowerVelocityXFade="25" Pitch="-100"/>
+  <sample Root="62" LoKey="62" HiKey="64" LoVel="52" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.68120002746582"
+          LowerVelocityXFade="25" Pitch="-100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.939432621002197"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.741082191467285"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.406077861785889"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.072582721710205"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.033512353897095"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.861000061035156"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.578598499298096"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.129677772521973"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.318550109863281"
+          LowerVelocityXFade="24" Pitch="-59" LowPassTable="48......vjm.7C...vOp5UY9fWLn1C...vOQtnR+b5M87C...vO...f+vjm.7C...vO"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.872401237487793"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.52280044555664"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.83949089050293"
+          Pitch="-100"/>
+  <sample Root="81" LoKey="81" HiKey="84" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#4_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.336807727813721"
+          Pitch="-100"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.9616527557373"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.212854862213135"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="87" LoKey="87" HiKey="88" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.679399967193604"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="89" LoKey="89" HiKey="94" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.572066307067871"
+          Pitch="-100"/>
+  <sample Root="95" LoKey="95" HiKey="96" LoVel="49" HiVel="127" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_fortissimo_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.572222709655762"
+          LowerVelocityXFade="24" Pitch="-100"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.27529335021973"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="62" LoKey="62" HiKey="64" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="39.52714157104492"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.46261310577393"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5056324005127"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.67620849609375"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.08918380737305"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.1513729095459"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_D#5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.92847347259521"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="87" LoKey="87" HiKey="88" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_E5_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="30.14535331726074"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="95" LoKey="95" HiKey="96" LoVel="0" HiVel="82" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C6_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.01445388793945"
+          UpperVelocityXFade="26" Pitch="-100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_F#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.34800720214844"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.94699668884277"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_G#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.56923675537109"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.381048202514648"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_A#3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.922630786895752"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_B3_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.204306602478027"
+          UpperVelocityXFade="16" Pitch="-100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="80" RRGroup="3"
+          FileName="D:\Cakewalk Content\Individual Instrument Samples\Strings\viola\Wav Conversions\viola_C4_1_piano_pizz_normal-converted.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.12598419189453"
+          UpperVelocityXFade="16" Pitch="-100"/>
+</samplemap>
