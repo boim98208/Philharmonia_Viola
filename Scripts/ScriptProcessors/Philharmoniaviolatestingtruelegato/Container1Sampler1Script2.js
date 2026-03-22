@@ -32,6 +32,15 @@ knbOffset.setRange(0.0, 1.0, 0.01);
 knbOffset.set("text", "Start Offset");
 knbOffset.set("defaultValue", 0.5);
 
+const var btnPanic = Content.addButton("Panic", 10, 50);
+btnPanic.set("text", "All Notes Off");
+
+function onControl(number, value)
+{
+    if (number == btnPanic && value == 1)
+        Engine.allNotesOff();
+}
+
 // Curve: 1.0 = linear, 2.0+ = slow start/fast end, 0.5 = fast start/slow end
 const var knbCurve = Content.addKnob("Curve", 300, 0);
 knbCurve.setRange(0.2, 4.0, 0.01);

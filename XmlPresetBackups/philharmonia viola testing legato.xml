@@ -9,8 +9,8 @@
         <Processor Type="ScriptProcessor" ID="Script Processor1" Bypassed="0">
           <ChildProcessors/>
           <Content>
-            <Control type="ScriptButton" id="BtnPizzi" value="0.0"/>
-            <Control type="ScriptButton" id="BtnLegato" value="1.0"/>
+            <Control type="ScriptButton" id="BtnPizzi" value="1.0"/>
+            <Control type="ScriptButton" id="BtnLegato" value="0.0"/>
             <Control type="ScriptButton" id="BtnSusAcc" value="0.0"/>
             <Control type="ScriptButton" id="PanicResetNoteButton" value="1.0"/>
           </Content>
@@ -19,13 +19,7 @@
       </ChildProcessors>
     </Processor>
     <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
-      <ChildProcessors>
-        <Processor Type="MidiController" ID="Midi Controller1" Bypassed="0" Intensity="1.0"
-                   UseTable="0.0" Inverted="0.0" ControllerNumber="11.0" SmoothTime="372.8817443847656"
-                   DefaultValue="127.0">
-          <ChildProcessors/>
-        </Processor>
-      </ChildProcessors>
+      <ChildProcessors/>
     </Processor>
     <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="1" Intensity="0.0">
       <ChildProcessors/>
@@ -38,7 +32,7 @@
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors>
-            <Processor Type="MidiMuter" ID="Container0MidiMute" Bypassed="0">
+            <Processor Type="MidiMuter" ID="Container0MidiMute" Bypassed="1">
               <ChildProcessors/>
               <Content>
                 <Control type="ScriptButton" id="ignoreButton" value="1.0"/>
@@ -133,7 +127,7 @@
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors>
-            <Processor Type="MidiMuter" ID="Container1MidiMute" Bypassed="1">
+            <Processor Type="MidiMuter" ID="Container1MidiMute" Bypassed="0">
               <ChildProcessors/>
               <Content>
                 <Control type="ScriptButton" id="ignoreButton" value="1.0"/>
@@ -143,7 +137,13 @@
           </ChildProcessors>
         </Processor>
         <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
-          <ChildProcessors/>
+          <ChildProcessors>
+            <Processor Type="MidiController" ID="Midi Controller1" Bypassed="0" Intensity="1.0"
+                       UseTable="0.0" Inverted="0.0" ControllerNumber="11.0" SmoothTime="200.0"
+                       DefaultValue="127.0">
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
         </Processor>
         <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="1" Intensity="0.0">
           <ChildProcessors/>
@@ -162,6 +162,26 @@
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
+                <Processor Type="ScriptProcessor" ID="Container1Sampler1Script2" Bypassed="0">
+                  <ChildProcessors/>
+                  <Content>
+                    <Control type="ScriptSlider" id="FadeTime" value="174.0"/>
+                    <Control type="ScriptSlider" id="StartOffset" value="1.0"/>
+                    <Control type="ScriptButton" id="Bypass" value="0.0"/>
+                    <Control type="ScriptSlider" id="Curve" value="1.75"/>
+                  </Content>
+                  <UIData>
+                    <ContentProperties DeviceType="Desktop">
+                      <Component type="ScriptSlider" id="FadeTime" x="0" y="0" stepSize="1.0"
+                                 min="10.0" max="500.0" text="Fade (ms)" defaultValue="120.0"/>
+                      <Component type="ScriptSlider" id="StartOffset" x="150" y="0" text="Start Offset"
+                                 defaultValue="0.5"/>
+                      <Component type="ScriptButton" id="Bypass" x="290" y="80"/>
+                      <Component type="ScriptSlider" id="Curve" x="300" y="0" min="0.2" max="4.0"
+                                 text="Fade Curve" defaultValue="2.0"/>
+                    </ContentProperties>
+                  </UIData>
+                </Processor>
                 <Processor Type="LegatoWithRetrigger" ID="Legato with Retrigger1" Bypassed="1">
                   <ChildProcessors/>
                   <Content/>
@@ -176,31 +196,6 @@
                     <ContentProperties DeviceType="Desktop">
                       <Component type="ScriptButton" id="Bypass" x="10" y="10"/>
                       <Component type="ScriptSlider" id="Time" x="160" y="0" max="2000.0"/>
-                    </ContentProperties>
-                  </UIData>
-                </Processor>
-                <Processor Type="ScriptProcessor" ID="Container1Sampler1Script2" Bypassed="0">
-                  <ChildProcessors/>
-                  <Content>
-                    <Control type="ScriptButton" id="Bypass" value="0.0"/>
-                    <Control type="ScriptSlider" id="Time" value="236.8000030517578"/>
-                    <Control type="ScriptSlider" id="Slope" value="0.1000000014901161"/>
-                    <Control type="ScriptSlider" id="Attack" value="0.0"/>
-                    <Control type="ScriptSlider" id="BendTime" value="0.0"/>
-                    <Control type="ScriptSlider" id="StartOffset" value="10583.0"/>
-                  </Content>
-                  <UIData>
-                    <ContentProperties DeviceType="Desktop">
-                      <Component type="ScriptButton" id="Bypass" x="10" y="10"/>
-                      <Component type="ScriptSlider" id="Time" x="70" y="0" max="2000.0"/>
-                      <Component type="ScriptSlider" id="Slope" x="200" y="0" min="0.1000000014901161"
-                                 max="2.0" suffix="x"/>
-                      <Component type="ScriptSlider" id="Attack" x="340" y="0" stepSize="1.0"
-                                 max="2000.0" suffix=" ms" mode="Time"/>
-                      <Component type="ScriptSlider" id="BendTime" x="600" y="0" stepSize="1.0"
-                                 max="2000.0" suffix=" ms" mode="Time"/>
-                      <Component type="ScriptSlider" id="StartOffset" x="460" y="0" stepSize="1.0"
-                                 max="44100.0" suffix=" samples"/>
                     </ContentProperties>
                   </UIData>
                 </Processor>
@@ -233,13 +228,22 @@
               </ChildProcessors>
             </Processor>
             <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0.0">
-              <ChildProcessors/>
+              <ChildProcessors>
+                <Processor Type="Random" ID="Random Modulator2" Bypassed="0" Intensity="0.004166666883975267"
+                           Bipolar="1" UseTable="0.0" RandomTableData="">
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
             </Processor>
             <Processor Type="EffectChain" ID="FX" Bypassed="0">
               <ChildProcessors/>
             </Processor>
             <Processor Type="ModulatorChain" ID="Sample Start" Bypassed="0" Intensity="1.0">
-              <ChildProcessors/>
+              <ChildProcessors>
+                <Processor Type="Constant" ID="SampleStart" Bypassed="0" Intensity="1.0">
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
             </Processor>
             <Processor Type="ModulatorChain" ID="Group Fade" Bypassed="0" Intensity="1.0">
               <ChildProcessors/>
@@ -253,8 +257,6 @@
             <Layer id="XFade" type="XFade" tokens="PP,P,MP,F,FF" ignorable="0" cached="0"
                    purgable="0" fadeTime="251.0" slotIndex="1" fader="Switch" sourceType="Midi CC"
                    folded="0"/>
-            <Layer id="Legato" type="Legato" tokens="" ignorable="1" cached="0"
-                   purgable="0"/>
           </Layers>
         </Processor>
       </ChildProcessors>

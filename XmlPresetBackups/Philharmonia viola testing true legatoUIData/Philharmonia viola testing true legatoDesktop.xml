@@ -15,5 +15,5 @@
                radioGroup="1.0"/>
   </Component>
   <Component type="ScriptButton" id="PanicResetNoteButton" x="10" y="100"
-             processorId="philharmonia viola testing legato" parameterId="Enabled"/>
+             processorId="Philharmonia viola testing true legato" parameterId="Enabled"/>
 </ContentProperties>
